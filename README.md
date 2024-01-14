@@ -39,9 +39,9 @@ Neovim's configurations are located under the following paths, depending on your
 
 Clone kickstart.nvim:
 
-- on Linux and Mac
+- on Linux and Mac (SPECIFIC to this fork)
 ```sh
-git clone https://github.com/nvim-lua/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/allmtz/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 - on Windows (cmd)
